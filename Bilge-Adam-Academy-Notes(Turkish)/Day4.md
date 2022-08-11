@@ -2,11 +2,16 @@
 
 18 Şubat 2019
 
-Karar Yapıları
+### Karar Yapıları
+
 Uygulamalarımızın çalışması esnasında farklı senaryolara göre farklı yönlendirmeler yapabilmek için kullanılır.
-Üç temel karar yapısı vardır.
-_ If-Else
-_ Switch-Case \* Ternary-If
+
+Üç temel karar yapısı vardır:
+
+- If-Else
+- Switch-Case
+- Ternary-If
+
 Random(): Random sınıfından instance alarak yani bir kopyaını oluşturarak rastgele sayı üretmek için kullanırız.
 
 Tip Dönüşümleri
