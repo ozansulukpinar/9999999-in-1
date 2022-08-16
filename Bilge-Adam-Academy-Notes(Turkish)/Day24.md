@@ -4,7 +4,7 @@
 
 Instance alarak örnek sınıftan yeni bir nesne oluşturulur.
 
-### ACCESS MODIFIERS (ERİŞİM BELİRLEYİCİLER)
+### Access Modifiers (Erişim Belirleyciler)
 
 **private:** En düşük seviye erişim belirleyicisidir. Sınıfın üyelerinde kullanılır, yalnızca o sınıf üyeleri tarafından erişilebilir. Bu üye metot ya da değişken olabilir. Yani o üyenin o tipe(sınıfa) özel olmasını sağlar. Private üyeler kalıtım yoluyla yaratılan sınıflardan bile erişemez. Eğer üyelere herhangi bir erişim belirleyici atanmazsa o üye derleyici tarafündan private olarak algılanır. Yani üyelerin varsayılan (default) erişim düzeyi private'dır.
 

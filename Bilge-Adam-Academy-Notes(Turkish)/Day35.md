@@ -15,8 +15,8 @@ interface ISample<T>
       where K:struct    // => value type constraint
                         // where T:ICollection // Type constraint
                         // where T:ICollection,IEnumerable
-                        //where T:ICollection,IDisposable
+                        // where T:ICollection,IDisposable
                         // where T: new() // Constructer constraint: Bunu implement edecek tipler muhakkak default yani parametresiz ctor'a sahip olmak zorunda.
-                        //where T: class,new() // Birden fazla new() için yazılır, her zaman en sonda olacak.
+                        // where T: class,new() // Birden fazla new() için yazılır, her zaman en sonda olacak.
 }
 ```

@@ -2,7 +2,7 @@
 
 18 Nisan 2019
 
-### Connection Strings###
+### Connection Strings
 
 **ADO.NET(ActiveX Data Objects.NET)**
 
@@ -12,7 +12,7 @@ ADO.NET'in veri tabanına iki tür bağlantı şekli vardır;
 - Connected
 - Disconnected
 
-#### DataAdapter####
+#### DataAdapter
 
 Gönderdiğimiz sorgu sonucu gelen veriyi geçici hafızaya alan sınıfımızdır(SQLDataAdapter, OleDbDataAdapter, OracleDataAdapter). DataAdapter ile database'den veriyi çekeriz, fakat alınan veriyi kullanabilmemiz için DataTable ve DataSet gibi veri türüne dönüştürmemiz gerekir. Disconnected bağlantılar için kullanılır.
 
